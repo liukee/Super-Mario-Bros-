@@ -5,4 +5,6 @@
    <img src="img/1.png" alt="截图" style="zoom:50%;" />
 2. ### 支持修改源代码！！！
    
-   <img src="img/2.png" alt="截图" style="zoom:50%;" />
+   <img src="img/2.png" alt="截图" 
+      style="zoom:50%;" />
+3.### 支持图片
